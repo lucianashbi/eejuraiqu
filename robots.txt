@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kahmeethei.alezayas.design/sitemap.xml
